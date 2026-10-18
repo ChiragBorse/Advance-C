@@ -167,7 +167,7 @@ If you find this repository useful for learning C programming, consider giving i
 
 
 ## Progress Notes
-- Initialized C practice repository.
+- Initialized C practice repository for best.
 ---
 
 ### 📜 License
