@@ -165,6 +165,9 @@ GitHub: [ChiragBorse](https://github.com/ChiragBorse)
 
 If you find this repository useful for learning C programming, consider giving it a ⭐ on GitHub!
 
+
+## Progress Notes
+- Initialized C practice repository.
 ---
 
 ### 📜 License
